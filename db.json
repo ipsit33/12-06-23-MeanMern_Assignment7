@@ -1,0 +1,95 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "Title": "Captain Marvel",
+      "Year": "2019",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTE0YWFmOTMtYTU2ZS00ZTIxLWE3OTEtYTNiYzBkZjViZThiXkEyXkFqcGdeQXVyODMzMzQ4OTI@._V1_SX300.jpg",
+      "Review": "Love love"
+    },
+    {
+      "id": 2,
+      "Title": "Ms. Marvel",
+      "Year": "2022",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmQ3OTZkNDUtNTU0Mi00ZjE4LTgyNTUtY2E4NWRmNDUxMzkyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg",
+      "Review": "Average"
+    },
+    {
+      "Title": "Iron Man 2",
+      "Poster": "https://c8.alamy.com/comp/PM52MG/iron-man-2-2010-poster-PM52MG.jpg",
+      "Year": "2010",
+      "Review": "Best of RDJ",
+      "id": 3
+    },
+    {
+      "Title": "Sholay",
+      "Poster": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/7b2a50d45848fe16556a3598209dca93196c8e3db927f2426426caf9ba79b3af._RI_TTW_.jpg",
+      "Year": "1975",
+      "Review": "EPIC",
+      "id": 4
+    },
+    {
+      "Title": "The Amazing Spider-Man",
+      "Poster": "https://upload.wikimedia.org/wikipedia/en/0/02/The_Amazing_Spider-Man_theatrical_poster.jpeg",
+      "Year": "2012",
+      "Review": "Garfield supremacy <3 <3",
+      "id": 5
+    },
+    {
+      "Title": "Avatar The Way of Water",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjhiNjBlODctY2ZiOC00YjVlLWFlNzAtNTVhNzM1YjI1NzMxXkEyXkFqcGdeQXVyMjQxNTE1MDA@._V1_FMjpg_UX1000_.jpg",
+      "Year": "2022",
+      "Review": "Awesome Visuals",
+      "id": 6
+    },
+    {
+      "Title": "Ghosted",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGMzYWZlYmYtNTcyMC00ZGVjLThjN2ItMjY4MjkwN2NlMjYwXkEyXkFqcGdeQXVyOTU0NjY1MDM@._V1_.jpg",
+      "Year": "2023",
+      "Review": "Good",
+      "id": 7
+    },
+    {
+      "Title": "Vikram Vedha",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDU2ODgxMTYtNWE0My00MWQ0LTlhZjUtMTU0NmI3ZjlhOWM3XkEyXkFqcGdeQXVyMTUzOTcyODA5._V1_.jpg",
+      "Year": "2022",
+      "Review": "Hrithik's Acting was amazing",
+      "id": 8
+    },
+    {
+      "Title": "Pushpa: The Rise - Part 1",
+      "Poster": "https://superstarsbio.com/wp-content/uploads/2022/01/pushpa-the-rise.jpg",
+      "Year": "2021",
+      "Review": "Fabulous",
+      "id": 9
+    },
+    {
+      "Title": "K.G.F: Chapter 2",
+      "Poster": "https://upload.wikimedia.org/wikipedia/en/d/d0/K.G.F_Chapter_2.jpg",
+      "Year": "2022",
+      "Review": "Maaalikkk !!",
+      "id": 10
+    },
+    {
+      "Title": "Ala Vaikunthapurramuloo",
+      "Poster": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTlw-phK5tB5j4r6ZifuT9phxHCyv5G8mMPX3uPs8_MNKY0TvXt",
+      "Year": "2020",
+      "Review": "Allu bhai",
+      "id": 11
+    },
+    {
+      "Title": "RRR",
+      "Poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG6L2WmlrU5r2HzTKoXTJC5DFyU9vMbUJ79Cp5P7RB5QEEnXkH",
+      "Year": "2022",
+      "Review": "Oscar winner",
+      "id": 12
+    },
+    {
+      "Title": "Arjun Reddy",
+      "Poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1ccNdDx3aCCiLxP1jFKVBP2kGBPMbxjN8aJEc_xpor-OFwAyK",
+      "Year": "2017",
+      "Review": "Wada waaun waaun XD",
+      "id": 13
+    }
+  ]
+}

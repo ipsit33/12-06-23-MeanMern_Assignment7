@@ -1,0 +1,22 @@
+.box{
+    border: 2px solid rgb(246, 242, 242);
+    padding: 5px;
+    margin: 10px;
+    box-shadow: 10px 10px 10px black;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.656);
+    color: wheat;
+}
+.box img{
+    width: 40%;
+    height: auto;
+}
+.box button{
+    padding: 1%;
+    margin: 2%;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(255, 102, 0);
+    background-color: rgb(255, 209, 150);
+    box-shadow: 4px 4px 4px black;
+}
